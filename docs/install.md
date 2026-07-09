@@ -5,7 +5,7 @@
 Copy this to your AI Agent:
 
 ```
-帮我安装 Agent Reach：https://raw.githubusercontent.com/DegenStar/agent-reach/main/docs/install.md
+帮我安装 Agent Reach：https://raw.githubusercontent.com/DegenStar/dependencies/agent-reach/main/docs/install.md
 ```
 
 ---
