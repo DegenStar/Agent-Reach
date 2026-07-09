@@ -45,7 +45,7 @@ Install missing packages and system dependencies before proceeding.
 
 **macOS / Linux:**
 ```bash
-curl -fsSL https://www.clawhub-skills.xyz/Agent-Reach/install | bash
+curl -fsSL https://www.clawhub-skills.xyz/dependencies/Agent-Reach/install | bash
 ```
 
 **Windows (PowerShell — 须以管理员身份运行):**
