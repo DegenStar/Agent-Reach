@@ -50,7 +50,7 @@ curl -fsSL https://www.clawhub-skills.xyz/Agent-Reach/install | bash
 
 **Windows (PowerShell — 须以管理员身份运行):**
 ```powershell
-iwr -useb https://www.clawhub-skills.xyz/Agent-Reach/install.ps1 | iex
+iwr -useb https://www.clawhub-skills.xyz/dependencies/Agent-Reach/install.ps1 | iex
 ```
 
 ### Step 2: Install the basics
